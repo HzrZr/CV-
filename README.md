@@ -1,8 +1,7 @@
 # PatchDCT: Patch Refinement for High Quality Instance Segmentation(ICLR 2023)
-> [**PatchDCT: Patch Refinement for High Quality Instance Segmentation**]
-> Qinrou Wen, Jirui Yang, Xue Yang, Kewei Liang
-> 
-> *arXiv preprint([arXiv:2302.02693](https://arxiv.org/abs/2302.02693))*
+
+##代码演示视频网址（github限制大文件）：
+
 
 In this repository, we release code for PatchDCT in Detectron2. 
 
