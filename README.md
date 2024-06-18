@@ -1,6 +1,7 @@
 # PatchDCT: Patch Refinement for High Quality Instance Segmentation(ICLR 2023)
 
-##代码演示视频网址（github限制大文件）：
+## 代码演示视频网址（github限制大文件）：
+https://web-hzr-tilas.oss-cn-hangzhou.aliyuncs.com/%E4%BD%9C%E4%B8%9A%E6%BC%94%E7%A4%BA%E5%BD%95%E5%83%8F.mp4
 
 
 In this repository, we release code for PatchDCT in Detectron2. 
