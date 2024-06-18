@@ -1,4 +1,4 @@
-# PatchDCT: Patch Refinement for High Quality Instance Segmentation(ICLR 2023)
+# PatchDCT
 
 ## 代码演示视频网址（github限制大文件）：
 阿里云对象存储服务，点击下载视频
